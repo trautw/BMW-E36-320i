@@ -10,6 +10,8 @@ permalink: /object/
 
 ### 21.08.1995 Erstzulassung
 
+# Räder
+- Felge Styling 25
 
 # Sonderausstattung:
 - 214	Aut.stabil.-control+traktion(asc+t)
