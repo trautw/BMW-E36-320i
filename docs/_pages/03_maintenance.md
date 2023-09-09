@@ -4,6 +4,20 @@ title: Wartung
 permalink: /maintenance/
 ---
 
+### 28.08.2023 Ölwechsel McOil 191919km, 70EUR
+
+### 08.2023 Zwei Lambdasonden
+
+### 08.2023 Kurbelwellenentlüftung
+
+### 08.2023 Vanos Steller
+
+### 08.2023 Druckregler
+
+### 08.2023 Einspritzdüse
+
+### 08.2023 Dreieckslenker und Lager
+
 ### 04.02.2023 Marderschreck montiert
 
 ### 01.2023 Nebelscheinwerfer ersetzt
