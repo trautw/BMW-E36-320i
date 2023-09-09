@@ -8,7 +8,7 @@ permalink: /maintenance/
 
 ### 28.08.2023 Ölwechsel McOil 191919km, 70EUR
 
-### 25.08.2023 TÜV GTÜ 205EUR
+### 25.08.2023 TÜV GTÜ 191874km 205EUR
 
 ### 25.08.2023 Reifengröße bei GTÜ TÜV eintragen lassen
 
