@@ -18,6 +18,10 @@ permalink: /maintenance/
 
 ### 08.2023 Vanos Steller
 
+### 08.2023 Leuchtmittel Standlicht
+
+### 08.2023 Leuchtweitenregler links
+
 ### 08.2023 Druckregler
 
 ### 08.2023 Einspritzdüse
